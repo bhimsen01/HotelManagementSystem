@@ -1,0 +1,9 @@
+bhimsen,bhimsen123,Admin
+admin,admin123,Admin
+bibek,bibek123,Manager
+manager,manager123,Manager
+dipankar,dipankar123,Chef
+bibekm,bbb,Chef
+roshan,roshan123,Customer
+customer,customer123,Customer
+king,king123,Customer

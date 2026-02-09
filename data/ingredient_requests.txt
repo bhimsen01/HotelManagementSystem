@@ -1,0 +1,4 @@
+meant,2kg
+chicken,5
+water,4
+mutton,3

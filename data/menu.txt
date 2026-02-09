@@ -1,0 +1,11 @@
+Mo:Mo,12
+Xiaomein,12
+BeefSteak,70
+ChickenSteak,60
+Caviar,200
+RibEye,60
+SalmonFillet,50
+Spaghetti,60
+Milkshake,40
+IceLatte,35
+Tomahawk,50
